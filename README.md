@@ -13,10 +13,11 @@ should work also as a function
         hlp_sessionVar("name")
         
 code
+
         hlp_sessionVar = function(varname)  {
                 return Session.get(varname);
         };
-        UI.registerHelper('hlp_sessionVar', hlp_sessionVar)
+        UI.registerHelper('hlp_sessionVar', hlp_sessionVar);
 
 ### hlp_count
 
