@@ -1,5 +1,7 @@
 # usefull-helpers
 
+They are both functions and helpers
+
 ### hlp_sessionVar
 
 Get the session variable calle `name`
