@@ -6,6 +6,9 @@ Get the session variable
 
         {{hlp_sessionVar "name"}}
 
+should work also as a function
+
+        hlp_sessionVar("name")
 
 ### hlp_count
 
