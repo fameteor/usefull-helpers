@@ -2,7 +2,7 @@
 
 ### hlp_sessionVar
 
-Get the session variable
+Get the session variable calle `name`
 
         {{hlp_sessionVar "name"}}
 
