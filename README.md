@@ -27,3 +27,7 @@ Counts the number of elemnts of a cursor or an array
 ### hlp_last
 
 get the last element of an array (see if it would work on a cursor ?)
+
+### hlp_dataContextHasProperty(::String)
+
+Checks if the dataContext has the given property
