@@ -31,3 +31,11 @@ get the last element of an array (see if it would work on a cursor ?)
 ### hlp_dataContextHasProperty(::String)
 
 Checks if the dataContext has the given property
+
+### hlp_dataContextPropertyIsBoolean(::DataContextProperty)
+
+Checks if the dataContext property is boolean
+
+### hlp_dataContextPropertyIsFunction(::DataContextProperty)
+
+Checks if the dataContext property is a function
