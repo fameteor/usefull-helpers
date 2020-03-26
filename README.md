@@ -32,10 +32,10 @@ get the last element of an array (see if it would work on a cursor ?)
 
 Checks if the dataContext has the given property
 
-### hlp_dataContextPropertyIsBoolean(::DataContextProperty)
+### hlp_isBoolean(value)
 
-Checks if the dataContext property is boolean
+Checks if boolean
 
-### hlp_dataContextPropertyIsFunction(::DataContextProperty)
+### hlp_isFunction(vaue)
 
-Checks if the dataContext property is a function
+Checks if a function
