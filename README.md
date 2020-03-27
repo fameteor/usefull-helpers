@@ -36,6 +36,10 @@ Checks if the dataContext has the given property
 
 Checks if boolean
 
-### hlp_isFunction(vaue)
+### hlp_isFunction(value)
 
 Checks if a function
+
+### hlp_isString(value)
+
+### hlp_isNonEmptyString(value)
